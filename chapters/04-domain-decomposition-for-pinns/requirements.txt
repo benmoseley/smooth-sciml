@@ -1,2 +1,4 @@
-# Add this chapter's pinned Python dependencies, one per line.
-# Example: numpy==2.3.2
+torch
+numpy
+matplotlib
+jupyter
